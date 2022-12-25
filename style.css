@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+html,body{
+    height: 100vh;
+}
+#c {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
